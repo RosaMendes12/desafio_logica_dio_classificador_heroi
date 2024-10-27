@@ -1,5 +1,4 @@
-let nome = "Rosa"
-let xp = 8000
+
 let nivel = ""
 
 if (xp <=1000) {
